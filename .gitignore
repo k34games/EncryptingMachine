@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.vsidx
+*.lock
+EncryptingMachines/.vs/EncryptingMachines/v17/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.vcxproj
+*.filters
+*.user
